@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background-image: url(https://i.pinimg.com/originals/35/1f/8f/351f8fccbdd72fdd6ce83e27338874aa.jpg);
+    background-size: cover;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+  
+.banner {
+    margin-top: 40px;
+    color: wheat;
+    font-size: 3em;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
